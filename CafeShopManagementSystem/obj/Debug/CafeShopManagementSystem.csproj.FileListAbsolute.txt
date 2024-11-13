@@ -1,0 +1,14 @@
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\bin\Debug\CafeShopManagementSystem.exe.config
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\bin\Debug\CafeShopManagementSystem.exe
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\bin\Debug\CafeShopManagementSystem.pdb
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.csproj.AssemblyReference.cache
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.Form1.resources
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.Properties.Resources.resources
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.RegisterForm.resources
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.csproj.GenerateResource.cache
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.csproj.CoreCompileInputs.cache
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.exe
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.pdb
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.AdminMainForm.resources
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.AdminAddUsers.resources
+D:\FPTU Subject\PRN212\Project\CafeShopManagementSystem\CafeShopManagementSystem\obj\Debug\CafeShopManagementSystem.AdminDashboardForm.resources
